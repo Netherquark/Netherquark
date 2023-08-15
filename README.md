@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Netherquark. I like to code in C, Bash and Java. And before you say anything, I just haven't explored Rust yet so peace out. 
+### Hi there 👋. I'm Netherquark.
 
 
 ### You can also find me on [GitLab](https://gitlab.com/netherquark)
