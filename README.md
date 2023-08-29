@@ -2,5 +2,3 @@
 
 
 ### You can also find me on [GitLab](https://gitlab.com/netherquark)
-
-I love photography!
