@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Netherquark. You can also find me on [Linkedin](https://www.linkedin.com/in/soham-shirish-kulkarni/) or [GitLab](https://gitlab.com/netherquark).
+### Hi there 👋. I'm Netherquark.
 
 
 
